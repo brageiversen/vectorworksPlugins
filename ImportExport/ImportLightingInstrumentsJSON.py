@@ -1,4 +1,4 @@
-ort json
+import json
 
 instrType       = ""
 instrMode       = ""
