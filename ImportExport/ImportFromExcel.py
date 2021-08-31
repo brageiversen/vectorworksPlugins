@@ -1,3 +1,5 @@
+import vs
+
 instrType       = ""
 instrMode       = ""
 wattage         = ""
